@@ -1,0 +1,25 @@
+url,vote_num,title
+/subject/326,8434,攻壳机动队 S.A.C. 2nd GIG
+/subject/876,25467,CLANNAD 〜AFTER STORY〜
+/subject/253,16449,星际牛仔
+/subject/25961,11295,猫和老鼠
+/subject/324,9680,攻壳机动队 STAND ALONE COMPLEX
+/subject/237,9554,攻壳机动队
+/subject/6049,17261,新世纪福音战士剧场版 Air/真心为你
+/subject/1728,7933,浪客剑心 追忆篇
+/subject/10380,32096,命运石之门
+/subject/211567,8586,3月的狮子 第二季
+/subject/265,27686,新世纪福音战士
+/subject/1428,20830,钢之炼金术师 FULLMETAL ALCHEMIST
+/subject/2907,2465,银河英雄传说
+/subject/321,3300,机动警察剧场版2 和平保卫战
+/subject/110467,19318,白箱
+/subject/238,6758,攻壳机动队2 无罪
+/subject/839,9167,蓝色恐惧
+/subject/3375,20086,凉宫春日的消失
+/subject/340,10251,虫师
+/subject/11834,11962,银魂'
+/subject/840,10637,千年女优
+/subject/263750,17598,进击的巨人 第三季 Part.2
+/subject/247,11768,银魂
+/subject/216371,15954,莉兹与青鸟
